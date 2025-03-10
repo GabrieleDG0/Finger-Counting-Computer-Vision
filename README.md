@@ -40,8 +40,6 @@ To run this script, you must have Python and the following packages installed:
 ### Future enhancements
 - Multi-hand support: The application could be enhanced to recognize and count the fingers of multiple hands simultaneously, which would be useful for collaborative gestures or multi-user interaction.
 - Recognise gestures: Beyond counting, implement recognition of various hand gestures, such as thumbs up, victory signs, or other common gestures to perform specific actions or commands.
-- Integration of augmented reality (AR): Integrate the app with AR to create an interactive experience where digital objects respond to hand gestures and finger counting.
-- Fitness and health monitoring: Develop a system that uses finger gestures to interact with fitness applications, such as tracking workout repetitions or controlling exercise routines.
 - Machine learning integration: Train a custom machine learning model to improve the accuracy and speed of finger and gesture recognition, especially in different lighting conditions and backgrounds.
 
 This project serves as a solid foundation for the research and further development of fingerprint and gesture recognition technologies in various fields. If you find any bugs, errors or problems, feel free to open an issue. **Happy Coding!**
