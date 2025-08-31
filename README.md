@@ -16,7 +16,7 @@ For optimal performance, make sure you are using the application in an environme
 - Good lighting: avoid strong light or reflections that can cause glare. Soft, even lighting is best for hand feature recognition.
 - Neutral background: A simple, unobtrusive background is ideal to reduce noise and ensure accurate hand recognition.
 - Minimal movement: Keep the camera and hand still during recognition to maintain accuracy.
-- 
+
 To run this script, you must have Python and the following packages installed OpenCV and Mediapipe
 
 ### Landmarks model
